@@ -35,6 +35,7 @@ function before(hook, param)
             '/vendor/',
             '/product/',
             '/data/misc/',
+            '/apex/com.android.conscrypt/cacerts/',
             '/etc/textclassifier/',
             '/etc/timezone',
             '/dev/',
